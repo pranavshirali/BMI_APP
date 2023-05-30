@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
                 int wt = (int) Double.parseDouble(weight.getText().toString());
                 int feet = (int) Double.parseDouble(heightft.getText().toString());
-                double totalM = feet * 0.305;
+                double totalM = feet / 3.281;
 
                 double bmi = wt / (totalM*totalM);
 
