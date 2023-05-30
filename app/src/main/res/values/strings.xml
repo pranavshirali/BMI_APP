@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">BMI</string>
-    <string name="height_ft">Enter Your Height in ft</string>
+    <string name="height_ft">Height in feet</string>
     <string name="height_inc">Enter Your Height in inc</string>
-    <string name="weight">Enter Your weight</string>
+    <string name="weight">Weight in kgs</string>
     <string name="calculate">Calculate</string>
     <string name="Result">Result</string>
+    <string name="overweight">Overweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="healthy">Healthy</string>
 </resources>
